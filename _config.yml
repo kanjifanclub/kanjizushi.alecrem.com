@@ -28,7 +28,13 @@ twitter_username: kanji_fanclub
 github_username:  kanjifanclub
 
 # Build settings
+
+# Uncomment below for GitHub Pages
 remote_theme: pmarsceill/just-the-docs
+
+# Uncomment below for local testing
+# theme: just-the-docs
+
 plugins:
   - jekyll-feed
 
