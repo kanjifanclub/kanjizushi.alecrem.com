@@ -28,6 +28,7 @@ twitter_username: kanji_fanclub
 github_username:  kanjifanclub
 
 # Build settings
+remote_theme: pmarsceill/just-the-docs
 theme: just-the-docs
 plugins:
   - jekyll-feed
