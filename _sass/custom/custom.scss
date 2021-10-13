@@ -1,0 +1,19 @@
+footer.site-footer {
+  display:none;
+  padding: 0;
+}
+a.btn, a.btn:hover {
+  color: $white!important;
+}
+.nav-list .nav-list-item .nav-list-link.active {
+  background-color: #c89112; //$yellow-dark
+  background-image: none;
+}
+.nav-list .nav-list-item .nav-list-link:hover {
+  background-color: #e35252; //$red-light
+  background-image: none;
+}
+.site-title:hover {
+  background-color: #e35252; //$red-light
+  background-image: none;
+}
