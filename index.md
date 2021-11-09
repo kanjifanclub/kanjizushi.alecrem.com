@@ -7,30 +7,36 @@ permalink: /
 nav_exclude: true
 ---
 
-# 入手するにはKickstarterでサポート
-{: .fs-9 }
+## 入手するにはKickstarterでサポート
+{: .fs-6 }
 
 100個から印刷会社にお願いしても値段がそこそこになりますので、よかったらサポートしてください！
-{: .fs-6 .fw-300 }
+{: .fw-300 }
 
-[Kickstarterでサポート](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Kickstarterでサポート](https://www.kickstarter.com/projects/1006650722/1457448077/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[ルールを読む](/ja){: .btn .btn-default .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[ルールPDF](/assets/pdf/kanji-zushi-rules-ja.pdf){: .btn .btn-default .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
-# Para hacerte con el juego, apóyanos en Kickstarter
-{: .fs-9 }
+## Para hacerte con el juego, apóyanos en Kickstarter
+{: .fs-6 }
 
 Podemos conseguir un precio razonable si imprimimos al menos 100 copias. ¡Por favor, apoya el proyecto!
-{: .fs-6 .fw-300 }
+{: .fw-300 }
 
-[Apóyanos en Kickstarter](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Apóyanos en Kickstarter](https://www.kickstarter.com/projects/1006650722/1457448077/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Leer las reglas](/es){: .btn .btn-default .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[PDF reglas](/assets/pdf/kanji-zushi-rules-es.pdf){: .btn .btn-default .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
-# To get a copy, back the game on Kickstarter
-{: .fs-9 }
+## To get a copy, back the game on Kickstarter
+{: .fs-6 }
 
 We can get a reasonable price if the project can afford ordering at least 100 copies from a printer. Please back the project!
-{: .fs-6 .fw-300 }
+{: .fw-300 }
 
-[Back Us on Kickstarter](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Back Us on Kickstarter](https://www.kickstarter.com/projects/1006650722/1457448077/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Read the rules](/en){: .btn .btn-default .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Rules PDF](/assets/pdf/kanji-zushi-rules-en.pdf){: .btn .btn-default .fs-5 .mb-4 .mb-md-0 .mr-2 }
