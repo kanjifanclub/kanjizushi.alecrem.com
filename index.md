@@ -7,6 +7,8 @@ permalink: /
 nav_exclude: true
 ---
 
+![Kanji-zushi 漢字寿司](/assets/img/kanjizushi-logo.png)
+
 ## 入手するにはKickstarterでサポート
 {: .fs-6 }
 
