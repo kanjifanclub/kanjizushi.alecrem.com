@@ -15,7 +15,7 @@ nav_exclude: true
 
 [Kickstarterでサポート](https://www.kickstarter.com/projects/1006650722/1457448077/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [ルールを読む](/ja){: .btn .btn-default .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[ルールPDF](/assets/pdf/kanji-zushi-rules-ja.pdf){: .btn .btn-default .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[ルールブックPDF](/assets/pdf/kanji-zushi-rules-ja.pdf){: .btn .btn-default .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
@@ -39,4 +39,4 @@ We can get a reasonable price if the project can afford ordering at least 100 co
 
 [Back Us on Kickstarter](https://www.kickstarter.com/projects/1006650722/1457448077/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Read the rules](/en){: .btn .btn-default .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Rules PDF](/assets/pdf/kanji-zushi-rules-en.pdf){: .btn .btn-default .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Rulebook PDF](/assets/pdf/kanji-zushi-rules-en.pdf){: .btn .btn-default .fs-5 .mb-4 .mb-md-0 .mr-2 }
